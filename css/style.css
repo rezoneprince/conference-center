@@ -1,0 +1,6 @@
+@media screen and (max-width:992px) {
+    .mobile-img {
+        min-height: 100vh;
+        object-fit: cover;
+    }
+}
